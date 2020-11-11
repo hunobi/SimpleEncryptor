@@ -95,7 +95,7 @@ def info():
     print("Commands:")
     print("[+]\tencode <fileName> <pathToFile> <keyFileName>")
     print("[+]\tdecode <fileName> <pathToFile> <pathToKeyFile>")
-    print("[+]\thelp")
+    print("[+]\tinfo")
     print("=" * n)
 
 
